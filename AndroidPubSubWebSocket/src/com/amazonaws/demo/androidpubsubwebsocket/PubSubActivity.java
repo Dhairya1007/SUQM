@@ -25,14 +25,14 @@ public class PubSubActivity extends Activity {
 
     // Customer specific IoT endpoint
     // AWS Iot CLI describe-endpoint call returns: XXXXXXXXXX.iot.<region>.amazonaws.com,
-    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "aet8mz6amflnk-ats.iot.ap-south-1.amazonaws.com";
+    private static final String CUSTOMER_SPECIFIC_ENDPOINT = "Replace me";
 
     // Cognito pool ID. For this app, pool needs to be unauthenticated pool with
     // AWS IoT permissions.
-    private static final String COGNITO_POOL_ID = "ap-south-1:72a834f8-9008-4e18-b7dd-54d1ee86651e";
+    private static final String COGNITO_POOL_ID = "Replace me";
 
     // Region of AWS IoT
-    private static final Regions MY_REGION = Regions.AP_SOUTH_1;
+    private static final Regions MY_REGION = Regions.US_EAST_1;
 
     EditText txtSubscribe;
     EditText txtTopic;
