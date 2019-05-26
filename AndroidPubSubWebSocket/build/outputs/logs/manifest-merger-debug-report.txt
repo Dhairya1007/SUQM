@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-iot-2.13.5.aar\34c3e4d38e289f2fd976455e718a48ee\AndroidManifest.xml:1:1-3:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.13.5.aar\8f404691e59f9446325b95889e320495\AndroidManifest.xml:2:1-4:80
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\conscrypt-android-2.0.0.aar\b25366ce77968fb0b17af9f6ee0570a7\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9da8a9c6b208a6ec83dd076c1fcf6ebc\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d175e1df1625a8da5b40d70208029de\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:3:5-56
+	android:versionName
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:7:5-67
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-iot-2.13.5.aar\34c3e4d38e289f2fd976455e718a48ee\AndroidManifest.xml:2:5-66
+MERGED from [com.amazonaws:aws-android-sdk-iot:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-iot-2.13.5.aar\34c3e4d38e289f2fd976455e718a48ee\AndroidManifest.xml:2:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:6:5-66
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:9:5-20:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:22:5-94
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\conscrypt-android-2.0.0.aar\b25366ce77968fb0b17af9f6ee0570a7\AndroidManifest.xml:11:5-20
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\conscrypt-android-2.0.0.aar\b25366ce77968fb0b17af9f6ee0570a7\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9da8a9c6b208a6ec83dd076c1fcf6ebc\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9da8a9c6b208a6ec83dd076c1fcf6ebc\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:10:9-35
+activity#com.amazonaws.demo.androidpubsubwebsocket.PubSubActivity
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:13:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:4:5-73
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:4:5-73
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\0dde39f5454b8d9ee09db0328c7358d3\AndroidManifest.xml:20:5-44
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.13.5.aar\8f404691e59f9446325b95889e320495\AndroidManifest.xml:4:1-69
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-auth-core-2.13.5.aar\8f404691e59f9446325b95889e320495\AndroidManifest.xml:4:1-69
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\conscrypt-android-2.0.0.aar\b25366ce77968fb0b17af9f6ee0570a7\AndroidManifest.xml:7:5-9:41
+MERGED from [org.conscrypt:conscrypt-android:2.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\conscrypt-android-2.0.0.aar\b25366ce77968fb0b17af9f6ee0570a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9da8a9c6b208a6ec83dd076c1fcf6ebc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\9da8a9c6b208a6ec83dd076c1fcf6ebc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d175e1df1625a8da5b40d70208029de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8d175e1df1625a8da5b40d70208029de\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		ADDED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+		INJECTED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Dhairya\Documents\aws-sdk-android-samples-master\AndroidPubSubWebSocket\AndroidManifest.xml:2:1-22:12 reason: com.amazonaws.iot requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from [com.amazonaws:aws-android-sdk-mobile-client:2.13.5] C:\Users\Dhairya\.gradle\caches\transforms-1\files-1.1\aws-android-sdk-mobile-client-2.13.5.aar\d0dc423e2b42f9b0f12ab3243d228c29\AndroidManifest.xml:7:22-76

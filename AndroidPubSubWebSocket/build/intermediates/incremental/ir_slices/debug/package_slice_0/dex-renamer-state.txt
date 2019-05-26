@@ -1,0 +1,4 @@
+#Sun May 26 17:25:27 IST 2019
+base.0=C\:\\Users\\Dhairya\\Documents\\aws-sdk-android-samples-master\\AndroidPubSubWebSocket\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
