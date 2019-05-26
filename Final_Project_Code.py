@@ -1,3 +1,4 @@
+#Developer - Dhairya Parikh
 # Import required libraries, including python-requests 
 import sys, time, requests, json
 import pygatt
