@@ -5,10 +5,10 @@ import pygatt
 import geocoder
 import struct
 
-BLE_ADDRESS = '00:60:37:0A:06:2F'
-adapter = pygatt.GATTToolBackend()
-locate = geocoder.ip('me')
-locate1 = locate.latlng
+BLE_ADDRESS = '00:60:37:0A:06:2F'  #NXP device mac address
+adapter = pygatt.GATTToolBackend()  #bluetooth adapter creation
+locate = geocoder.ip('me')    #obtain location data from internet
+locate1 = locate.latlng    #latitude and longitude data
         
 print "Starting sensor value measurement! Press Ctrl+C to stop this script."
 time.sleep(1)
